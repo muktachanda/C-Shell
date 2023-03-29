@@ -1,7 +1,9 @@
->## *2021101071*
+# C-Shell
 
->## Mukta Chanda  
-  
+### Created as a part of OSN (Operating Systems and Networks) course as an assignment.
+
+### Brief Description:
+Imitated a few of the traditional Linux terminal's commands by programming it in C.
 
 ### **Terminal commands:**
     $ make
